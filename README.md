@@ -1,4 +1,4 @@
-Projeto desenvolvido durante o curso de desenvolvimento de software na Trybe. O objetivo foi práticar métodos e operadores SQL mais complexos.
+Projeto desenvolvido durante o curso de desenvolvimento de software na Trybe. O objetivo foi práticar métodos e operadores mais complexos.
 
 Data de entrega: 20/10/2021
 
